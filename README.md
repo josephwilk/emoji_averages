@@ -12,4 +12,4 @@
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/people.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/smiley.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/symbols.png)
-![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/travel-places.png)
+![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/travel_places.png)
