@@ -5,6 +5,7 @@
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/clothing.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/flags.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/food-drink.png)
+![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/food-drink_01.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/hand-gestures.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/nature.png)
 ![](https://raw.githubusercontent.com/josephwilk/emoji_averages/master/imgs/objects.png)
